@@ -10,16 +10,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="434ad9c4-9be0-462e-8da5-20837989130f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/archivo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="434ad9c4-9be0-462e-8da5-20837989130f" name="Default Changelist" comment="Add frontend">
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/interceptor/http.interceptor.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/interceptor/http.interceptor.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/models/product.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/services/base.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/services/base.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/services/upload.service.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/services/upload.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/home/home.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/upload/upload-routing.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/upload/upload.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/upload/upload.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/upload/upload.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/upload/upload.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/app/views/upload/upload.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PaySett.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PaySett.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +39,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend" />
   </component>
   <component name="ProjectId" id="1m4w2g0wHag92nOrVtbPSMlrz1G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -62,8 +74,16 @@
       <option name="presentableId" value="Default" />
       <updated>1608765965645</updated>
       <workItem from="1608765966757" duration="15664000" />
-      <workItem from="1608785253488" duration="116000" />
+      <workItem from="1608785253488" duration="381000" />
     </task>
+    <task id="LOCAL-00001" summary="Add frontend">
+      <created>1608785589664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608785589664</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,6 +99,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add frontend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add frontend" />
   </component>
   <component name="WindowStateProjectService">
     <state x="512" y="294" width="350" height="300" key="org.angular.cli.generate" timestamp="1608771753135">
